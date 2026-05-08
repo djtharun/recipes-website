@@ -9,9 +9,15 @@
 * {
     box-sizing: border-box;
     width: auto;
-    margin: 50px auto;
+    margin: 25px auto;
     background-color: #334257;
     color: white;
     font-size: xx-large;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    padding: 40px;
 }
