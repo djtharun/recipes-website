@@ -1,0 +1,13 @@
+.general {
+    text-align: center;
+    font-size: larger;
+    color: blue;
+}
+.general .specific {
+    color: red;
+}
+* {
+    box-sizing: border-box;
+    width: 200px;
+    margin: 50px auto;
+}
